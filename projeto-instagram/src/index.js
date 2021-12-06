@@ -5,10 +5,10 @@ import Main from './main';
 
 function Tudo() {
     return (
-        <div>
-            <Header />
-            <Main />
-        </div>
+      <div>
+          <Header />
+          <Main />
+      </div>
     );
 }
 
